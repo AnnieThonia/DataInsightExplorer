@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis-EDA-
+# Exploratory-Data-Analysis-EDA
 Analysing data to find significant insights for business strategies
