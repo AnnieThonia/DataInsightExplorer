@@ -1,2 +1,3 @@
 # Exploratory-Data-Analysis-EDA
-Analysing data to find significant insights for business strategies
+This repository comprises projects in which I utilized Python to clean, preprocess, and visualize data, enabling the extraction of valuable insights from various datasets.
+1. Forbes Billionaire List analysis
