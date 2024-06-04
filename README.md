@@ -1,4 +1,5 @@
-# Exploratory-Data-Analysis-EDA
-This repository comprises projects in which I utilized SQL, and Python to clean, preprocess, and visualize data, enabling the extraction of valuable insights from various datasets.
-1. Forbes Billionaire List analysis (python)
-2. UK Airbnb Listings (London) (SQL and Python)
+# DataInsightExplorer
+"The DataInsightExplorer repository includes projects where SQL and Python are used for data cleaning, preprocessing, and visualization. These processes enable the extraction of valuable insights from various datasets. The projects in this repository include:
+
+Analysis of the Forbes Billionaire List using Python
+Analysis of UK Airbnb Listings (specifically in London) using both SQL and Python"
